@@ -1,2 +1,2 @@
-https://svag.group/ru/guide/dev-web-iserdmi/lesson/html
-5-37
+https://svag.group/ru/guide/dev-web-iserdmi/lesson/react-javascript
+1-24
